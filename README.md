@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **"Mini Game Projects"**
 
-- 🌱 I’m currently learning **Phyton**
+- 🌱 I’m currently learning **Python and Cyber Security**
 
 - 💬 Ask me about **C - Java - Phyton - C# - HTML - CSS - JavaScript - Linux - MySQL**
 
